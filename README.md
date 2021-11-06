@@ -29,7 +29,7 @@ Alguns use-cases que pensei para este projeto, são:
 ### Divisão de tarefas 📅
 Teremos 7 semanas para começar e terminar o projeto antes do final do semestre. Dividi as tarefas pensando em finalizar o projeto em 6 semanas, para termos uma folga caso algo dê errado.
 
-#### **Semana 25/10**
+#### **Semana 25/10** ✅
 - Curso de programação em Solidity (CryptoZombies)
 - Pesquisa sobre criação de NFTs e como funcionam marketplaces (como o OpenSea)
 - Como funciona a arquitetura de um contrato ERC-721
@@ -45,7 +45,7 @@ Links Úteis:
 - [How to use Remix IDE](https://medium.com/moonbeam-network/using-the-remix-ide-to-deploy-a-solidity-smart-contract-to-moonbeam-35799261d971)
 ---
 
-#### **Semana 1/11**
+#### **Semana 1/11** ✅
 - Download do Truffle, Ganache e Metamask
 - Reimplementar o contrato com Truffle e Ganache
 - Escrever testes para o contrato (apenas o dono do contrato pode criar NFTs!!)
