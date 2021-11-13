@@ -56,7 +56,7 @@ Links Úteis:
 - [Metamask](https://metamask.io/)
 ---
 
-#### **Semana 8/11**
+#### **Semana 8/11** ✅
 - Aprender sobre como funciona o IPFS e baixar o IPFS Desktop
 - Fazer um mint de NFT no Ganache com uma URL de imagem que esteja hosteada no IPFS (pode ser no Pinata, Infura ou IPFS Desktop)
 - Fazer o deploy do contrato para uma rede teste (pode ser Rinkeby, Kovan ou a própria Mubai da Polygon)
