@@ -4,10 +4,10 @@ const path = require('path');
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 const NFTBI = require("../build/contracts/NFTBI");
 
-const privateKey = fs.readFileSync(path.resolve(__dirname, '../.secret')).toString().trim();
-const contractAddress = "0x3789C6B18C3C84365238aceAB4399e402D566b0f";
-const recipient = "0x0774cdf35E78150D5e292B35cF105784a5EB6A24";
-const tokenURI = "https://ipfs.io/ipfs/QmWpMKJsYkkouKgxpprDtMTP5iGGGRejDVsWde6JfGauE3";
+const privateKey = fs.readFileSync(path.resolve(__dirname, '../../.secret')).toString().trim();
+const contractAddress = "";
+const recipient = "";
+const tokenURI = "";
 
 const provider = new HDWalletProvider(privateKey, `https://matic-mumbai.chainstacklabs.com/`)
 // const provider = new HDWalletProvider(privateKey, "ws://localhost:8545")

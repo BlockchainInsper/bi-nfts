@@ -68,7 +68,7 @@ Links Úteis:
 - [Upload 10000 NFTs to IPFS](https://youtu.be/3jizwk6_m1s)
 ---
 
-#### **Semana 15/11**
+#### **Semana 15/11** ✅
 - Aprender como funciona o padrão de metadados utilizado pelo OpenSea
 - Fazer o deploy em uma rede teste e utilizá-lo dentro do OpenSea
 - Começar o desenvolvimento da moldura dos NFTs (que servirá como base para todos eles)
@@ -95,4 +95,3 @@ Links Úteis:
 #### **Semana 6/12**
 - Encerramento do semestre
 - Verificar disponibilidade da galera para refazer o site da BI nas férias
-
