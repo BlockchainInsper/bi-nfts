@@ -4,13 +4,8 @@ const metadataTemplate = {
   name: "",
   description: "",
   image: "",
-  external_url: "https://blockchainsper.com/",
+  external_url: "",
   attributes: [
-    {
-      display_type: "date",
-      trait_type: "birthday",
-      value: 0
-    },
     {
       trait_type: "Cargo",
       value: ""

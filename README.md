@@ -78,7 +78,7 @@ Links Úteis:
 - [OpenSea metadata standards](https://docs.opensea.io/docs/metadata-standards)
 ---
 
-#### **Semana 22/11**
+#### **Semana 22/11** ✅
 - Pesquisar como criar uma Pixel Art (pode ser em Python ou alguma API)
 - Criação das Pixel Arts para todos os membros da entidade 2021.2
 

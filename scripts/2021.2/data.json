@@ -1,12 +1,104 @@
 {
   "0": {
-    "nome": "",
-    "aniversario": 0,
-    "cargo": ""
+    "nome": "Fernando Franca",
+    "cargo": "Diretor de Tech",
+    "linkedin": "https://www.linkedin.com/in/fernandopmgfranca/",
+    "wallet": "0x0774cdf35E78150D5e292B35cF105784a5EB6A24"
   },
   "1": {
-    "nome": "",
-    "aniversario": 0,
-    "cargo": ""
+    "nome": "Rafael Garcia",
+    "cargo": "Diretor de Conteúdos",
+    "linkedin": "https://www.linkedin.com/in/rafael-racy-garcia/",
+    "wallet": "0x0774cdf35E78150D5e292B35cF105784a5EB6A24"
+  },
+  "2": {
+    "nome": "Paulo Chade",
+    "cargo": "Analista de Business/Tech",
+    "linkedin": "https://www.linkedin.com/in/paulo-chade/",
+    "wallet": "0x2b3248c249A59B567dc40914834648E496d34340"
+  },
+  "3": {
+    "nome": "José Rafael",
+    "cargo": "Analista de Business/Tech",
+    "linkedin": "https://www.linkedin.com/in/joserafaelfernandes/",
+    "wallet": "0x3921E5E6F37907faD853918c7670c92b05FBa458"
+  },
+  "4": {
+    "nome": "Arthur Carvalho",
+    "cargo": "Presidente",
+    "linkedin": "https://www.linkedin.com/in/arthur-carvalho-120901/",
+    "wallet": "0x1b477a5C311Dd34d7B64dc8138085d224D2dA91B"
+  },
+  "5": {
+    "nome": "Francisco Costa",
+    "cargo": "Analista de Tech",
+    "linkedin": "https://www.linkedin.com/in/francisco-costa-6a119421b/",
+    "wallet": "0x0774cdf35E78150D5e292B35cF105784a5EB6A24"
+  },
+  "6": {
+    "nome": "Carlos Cabral",
+    "cargo": "Analista de Finance",
+    "linkedin": "https://www.linkedin.com/in/carlos-henrique-rolim-cabral/",
+    "wallet": "0xB001b3B51c4BBEF59fb2d44C2D30E1A332337137"
+  },
+  "7": {
+    "nome": "Bruno Roque",
+    "cargo": "Analista de Finance",
+    "linkedin": "https://www.linkedin.com/in/bruno-caran-7bb943226/",
+    "wallet": "0x05ce29c8449B68d9B2FEd3A4DcB141381E5cc3bd"
+  },
+  "8": {
+    "nome": "Raymond Diwan",
+    "cargo": "Analista de Business/Finance",
+    "linkedin": "https://www.linkedin.com/in/raymond-diwan-4b5b241b1/",
+    "wallet": "0x88b5b5982f5d22f5da57d4a452ce073556d1fd78"
+  },
+  "9": {
+    "nome": "Guilherme Alves",
+    "cargo": "Analista de Finance/Tech",
+    "linkedin": "https://www.linkedin.com/in/guilhermealvesferreira/",
+    "wallet": "0xf77f6a56489cAbD66D6a69013a0E8C254E9DA8BC"
+  },
+  "10": {
+    "nome": "Luy Consalter",
+    "cargo": "Analista de Business/Tech",
+    "linkedin": "",
+    "wallet": "0x4F2e87428b206088a9d92B3AeE2Dc714d231766c"
+  },
+  "11": {
+    "nome": "Alexandre Santarossa",
+    "cargo": "Analista de Finance/Tech",
+    "linkedin": "https://www.linkedin.com/in/alexandresantarossa/",
+    "wallet": "0x676F0adB98b395637c13BE7A93C54DC6f2b337d3"
+  },
+  "12": {
+    "nome": "Gustavo Borges",
+    "cargo": "Analista de Tech",
+    "linkedin": "https://www.linkedin.com/in/gustavo-m-borges/",
+    "wallet": "0x7821c62Ce735E16ddee67d81ed1f0371a9eAB2Bf"
+  },
+  "13": {
+    "nome": "Rafael Rocha",
+    "cargo": "Analista de Business/Tech",
+    "linkedin": "https://www.linkedin.com/in/rafael-rodrigues-93a638152/",
+    "wallet": "0xBCb942b96a4E326096c3bC2B60f9db2CD77da3DC"
+  },
+  "14": {
+    "nome": "Marcelo Rabello",
+    "cargo": "Analista de Tech",
+    "linkedin": "https://www.linkedin.com/in/marcelo-rabello-barranco-189089206/",
+    "wallet": "0x5E11aB04550bdc858ff696476a9EDaD0Ae6393F8"
+  },
+  "15": {
+    "nome": "Guilherme Caproni",
+    "cargo": "Analista de Business",
+    "linkedin": "https://www.linkedin.com/in/guilherme-caproni-51a8561b1/",
+    "wallet": "0x955ab45ff0c21b70f18bfa622a3289633af071ba"
+  },
+  "16": {
+    "nome": "Henrique Maulem",
+    "cargo": "Analista de Tech",
+    "linkedin": "",
+    "wallet": "0xAB62B24259F73ddDAF89604022cC7FC456cB00a5"
   }
 }

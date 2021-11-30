@@ -1,5 +1,6 @@
 const fs = require('fs')
 const path = require('path');
+const { checkNFTInformations } = "./utils";
 const pinataSDK = require('@pinata/sdk');
 
 const pinata = pinataSDK('', '');
@@ -11,13 +12,8 @@ const metadataTemplate = {
   name: "",
   description: "",
   image: "",
-  external_url: "https://blockchainsper.com/",
+  external_url: "",
   attributes: [
-    {
-      display_type: "date",
-      trait_type: "birthday",
-      value: 0
-    },
     {
       trait_type: "Cargo",
       value: ""
@@ -39,14 +35,19 @@ module.exports = async callback => {
 
     let readableStreamForFile = fs.createReadStream(path.join(imagesPath, fileName));
 
+    if (checkNFTInformations(data[fileNumber])) {
+      console.log(`Error in ${fileNumber}. Skipping...`)
+      break
+    }
+
     let result = await pinata.pinFileToIPFS(readableStreamForFile)
 
     let metadata = metadataTemplate
     let fileNumber = fileName.replace(/\.[^/.]+$/, "")
 
     metadata['name'] = data[fileNumber].nome
-    metadata['attributes'][0]["value"] = data[fileNumber].aniversario
-    metadata['attributes'][1]["value"] = data[fileNumber].cargo
+    metadata['external_url'] = data[fileNumber].linkedin
+    metadata['attributes'][0]["value"] = data[fileNumber].cargo
     metadata['image'] = `https://ipfs.io/ipfs/${result["IpfsHash"]}`
 
     let localFilename = `metadata/${semestre}/` + metadata['name'].toLowerCase().replace(/\s/g, '-')

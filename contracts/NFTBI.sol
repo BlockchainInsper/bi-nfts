@@ -20,4 +20,8 @@ contract NFTBI is ERC721URIStorage, Ownable {
 
     return newItemId;
   }
+
+  function changeTokenURI(uint256 _tokenId, string memory _tokenURI) public onlyOwner {
+    _setTokenURI(_tokenId, _tokenURI);
+  }
 }
