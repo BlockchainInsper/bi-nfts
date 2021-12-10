@@ -86,12 +86,12 @@ Links Úteis:
 - [Convert Photo into pixel art using Python](https://towardsdatascience.com/convert-photo-into-pixel-art-using-python-d0b9bd235797)
 ---
 
-#### **Semana 29/11**
+#### **Semana 29/11** ✅
 - Deploy para a mainet da Polygon
 - Distribuição dos NFTs para os membros da entidade
 - Fazer posts no Insta, Linkedin, etc falando sobre o projeto
 ---
 
-#### **Semana 6/12**
+#### **Semana 6/12** ✅
 - Encerramento do semestre
 - Verificar disponibilidade da galera para refazer o site da BI nas férias
