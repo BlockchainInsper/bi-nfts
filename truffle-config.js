@@ -66,13 +66,21 @@ module.exports = {
     //   skipDryRun: true     // Skip dry run before migrations? (default: false for public nets )
     // },
     mumbai: {
-      provider: () => new HDWalletProvider(mnemonic, `https://matic-mumbai.chainstacklabs.com/`),
+      provider: () => new HDWalletProvider(mnemonic, ``),
       network_id: 80001,
       gas: 6000000,
       confirmations: 2,
       timeoutBlocks: 200,
       skipDryRun: true,
       gasPrice: 10000000000,
+    },
+    matic: {
+      provider: () => new HDWalletProvider(mnemonic, ``),
+      network_id: 137,
+      confirmations: 2,
+      timeoutBlocks: 200,
+      skipDryRun: true,
+      chainId: 137
     },
     // Useful for private networks
     // private: {

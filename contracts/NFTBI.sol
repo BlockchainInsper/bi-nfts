@@ -9,7 +9,7 @@ contract NFTBI is ERC721URIStorage, Ownable {
   using Counters for Counters.Counter;
   Counters.Counter private tokenIds;
 
-  constructor() ERC721("Blockchain Insper NFTs", "NFTBI") {}
+  constructor() ERC721("Blockchain Insper 2021.2", "NFTBI") {}
 
   function mintNFT(address _owner, string memory _tokenURI) public onlyOwner returns (uint256) {
     tokenIds.increment();
